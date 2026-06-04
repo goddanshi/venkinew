@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /api/
+Disallow: /config/
+Disallow: /data/
+Disallow: /lib/
+Disallow: /scripts/
+Disallow: /tmp_parse.html
+
+Sitemap: https://venkivgmk.ru/sitemap.xml

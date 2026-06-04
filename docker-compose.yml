@@ -1,0 +1,18 @@
+services:
+  web:
+    build: .
+    ports:
+      - "5080:80"
+    volumes:
+      # Монтируем проект — изменения файлов сразу видны без пересборки
+      - .:/var/www/html
+      # data и uploads персистентны между перезапусками
+      - venki_data:/var/www/html/data
+      - venki_uploads:/var/www/html/uploads
+    restart: unless-stopped
+    environment:
+      - PHP_CLI_SERVER_WORKERS=4
+
+volumes:
+  venki_data:
+  venki_uploads:

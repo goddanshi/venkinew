@@ -1,0 +1,6 @@
+.git
+.gitignore
+.dockerignore
+tmp_parse.html
+scripts/
+*.md
