@@ -98,3 +98,4 @@ $homeHref = $navBase === '' ? '#home' : $navBase . '#home';
     </div>
   </div>
 </footer>
+<?php include __DIR__ . '/metrika.php'; ?>
