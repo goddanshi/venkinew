@@ -2,3 +2,4 @@ config/telegram.local.php
 config/admin.local.php
 uploads/products/*
 !uploads/products/.htaccess
+assets/img/groby/page-*.png

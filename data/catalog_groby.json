@@ -1,3 +1,112 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "id": "groby",
+      "label": "Гробы",
+      "items": [
+        {
+          "id": "grob-01",
+          "title": "",
+          "image": "assets/img/groby/grob_01.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-02",
+          "title": "",
+          "image": "assets/img/groby/grob_02.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-03",
+          "title": "",
+          "image": "assets/img/groby/grob_03.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-04",
+          "title": "",
+          "image": "assets/img/groby/grob_04.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-05",
+          "title": "",
+          "image": "assets/img/groby/grob_05.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-06",
+          "title": "",
+          "image": "assets/img/groby/grob_06.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-07",
+          "title": "",
+          "image": "assets/img/groby/grob_07.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-08",
+          "title": "",
+          "image": "assets/img/groby/grob_08.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-09",
+          "title": "",
+          "image": "assets/img/groby/grob_09.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-10",
+          "title": "",
+          "image": "assets/img/groby/grob_10.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-11",
+          "title": "",
+          "image": "assets/img/groby/grob_11.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-12",
+          "title": "",
+          "image": "assets/img/groby/grob_12.jpg",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "kryshki",
+      "label": "Крышки",
+      "items": [
+        {
+          "id": "grob-13",
+          "title": "",
+          "image": "assets/img/groby/grob_13.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-14",
+          "title": "",
+          "image": "assets/img/groby/grob_14.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-15",
+          "title": "",
+          "image": "assets/img/groby/grob_15.jpg",
+          "price": null
+        },
+        {
+          "id": "grob-16",
+          "title": "",
+          "image": "assets/img/groby/grob_16.jpg",
+          "price": null
+        }
+      ]
+    }
+  ]
 }
